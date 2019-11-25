@@ -3,7 +3,7 @@
 			"name": "ABIS1",
 			"host": "",
 			"port": "",
-			"brokerUrl": "tcp://52.187.37.172:61616",
+			"brokerUrl": "tcp://52.187.32.64:61616",
 			"inboundQueueName": "abis1-inbound-address_env",
 			"outboundQueueName": "abis1-outbound-address_env",
 			"pingInboundQueueName": "",
