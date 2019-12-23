@@ -1,8 +1,8 @@
 {
 	"abis": [{
 			"name": "ABIS1",
-			"host": "",
-			"port": "",
+			"host": "abis.technoforte.co.in",
+			"port": "443",
 			"brokerUrl": "tcp://52.187.32.64:61616",
 			"inboundQueueName": "abis1-inbound-address_env",
 			"outboundQueueName": "abis1-outbound-address_env",
